@@ -1,5 +1,5 @@
 
-# Hi, i'm Valentin <img src="https://tenor.com/fr/view/hi-gif-23520343">	
+# Hi, i'm Valentin <img src="/Icons/hi.gif">	
 ## I'm a Web & Web mobile developper :spider_web::computer:	  
 
 <a href="https://fr.linkedin.com/in/valentin-quersin-8a1262133" rel="nofollow">
